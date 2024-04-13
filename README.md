@@ -10,19 +10,19 @@
 
 ###
 
-📚 Currently developing apps using Expo React Native.
+- Currently developing apps using Expo React Native.
 
 ###
 
-📚 Porfolio will be up soon, showcasing my projects.
+- Porfolio will be up soon, showcasing my projects.
 
 ###
 
-📚 You can reach me though gmail: noahmarkdelapena@gmail.com.
+- You can reach me though gmail: noahmarkdelapena@gmail.com.
 
 ###
 
-📚 Let's collaborate and learn together!
+- Let's collaborate and learn together!
 
 ###
 
