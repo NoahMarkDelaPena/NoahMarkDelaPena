@@ -10,19 +10,19 @@
 
 ###
 
-<h6 align="left">- Currently developing apps using Expo React Native.</h6>
+📚 Currently developing apps using Expo React Native.
 
 ###
 
-<h6 align="left">- Porfolio will be up soon, showcasing my projects.</h6>
+📚 Porfolio will be up soon, showcasing my projects.
 
 ###
 
-<h6 align="left">- You can reach me though gmail: noahmarkdelapena@gmail.com.</h6>
+📚 You can reach me though gmail: noahmarkdelapena@gmail.com.
 
 ###
 
-<h6 align="left">- Let's collaborate and learn together!</h6>
+📚 Let's collaborate and learn together!
 
 ###
 
