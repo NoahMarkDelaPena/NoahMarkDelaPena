@@ -14,7 +14,7 @@
 
 ###
 
-- Porfolio will be up soon, showcasing my projects.
+- Checkout my portfolio, https://portfolio-noah-mark.vercel.app/.
 
 ###
 
